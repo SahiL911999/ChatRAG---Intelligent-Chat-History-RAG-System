@@ -1,0 +1,19 @@
+# AWS SDK for S3 operations
+boto3>=1.34.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# LangChain core and text processing
+langchain-core>=0.3.0
+langchain-text-splitters>=0.3.0
+
+# Pinecone vector database
+pinecone>=5.0.0
+langchain-pinecone>=0.2.0
+
+# Google Generative AI embeddings
+langchain-google-genai>=2.0.0
+
+# Groq LLM
+langchain-groq>=0.1.0
